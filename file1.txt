@@ -1,1 +1,1 @@
-Konflikt aus git3-second
+Konflikt aus git3-second - andere Änderung-second
