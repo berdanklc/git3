@@ -1,1 +1,3 @@
 Konflikt aus git3-second - Änderung
+Konflikt aus git3 - Änderung
+
