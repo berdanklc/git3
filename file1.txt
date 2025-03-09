@@ -1,2 +1,1 @@
-Änderung aus git3
-Änderuung aus git3
+Konflikt aus git3
