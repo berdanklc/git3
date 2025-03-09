@@ -1,2 +1,1 @@
-Änderung aus git3-second
-Änderung aus git3-second
+Konflikt aus git3-second
